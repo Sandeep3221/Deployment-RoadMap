@@ -2,6 +2,7 @@
 
 This guide explains **how to deploy a MERN stack application (MongoDB, Express, React, Node.js)** on a **Hostinger VPS** using **Nginx, PM2, and SSL certificates**.
 
+
 It covers everything from **server preparation to production deployment with HTTPS**.
 
 ---
